@@ -1,0 +1,13 @@
+{
+  "itemGroup.nesoberries": "Example Mod Tab",
+  "block.nesoberries.example_block": "Example Block",
+  "item.nesoberries.example_item": "Example Item",
+
+  "nesoberries.configuration.title": "Nesoberries Configs",
+  "nesoberries.configuration.section.nesoberries.common.toml": "Nesoberries Configs",
+  "nesoberries.configuration.section.nesoberries.common.toml.title": "Nesoberries Configs",
+  "nesoberries.configuration.items": "Item List",
+  "nesoberries.configuration.logDirtBlock": "Log Dirt Block",
+  "nesoberries.configuration.magicNumberIntroduction": "Magic Number Text",
+  "nesoberries.configuration.magicNumber": "Magic Number"
+}
